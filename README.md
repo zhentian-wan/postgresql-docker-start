@@ -18,4 +18,6 @@ poql --host=db --username=alice --dbname=myawesomedb
 
 Ctrl + d twice
 
-# docker-compose down
+# Off
+
+docker-compose down
